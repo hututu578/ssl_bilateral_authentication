@@ -1,0 +1,56 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: O=TestOrg, OU=TestDepartment, CN=TestCA/emailAddress=ca_admin@testorg.com
+        Validity
+            Not Before: Jun  3 06:54:31 2021 GMT
+            Not After : Jun  3 06:54:31 2022 GMT
+        Subject: O=ServerCom, OU=ServerOU, CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b9:c7:b0:44:b4:b0:a4:1d:4a:f6:9a:39:8b:04:
+                    4b:55:a1:e1:c2:f8:32:98:fd:09:82:a7:15:00:32:
+                    77:45:4b:f9:29:83:30:58:74:11:fd:a4:80:54:a4:
+                    d6:19:f2:91:21:12:f9:99:e2:69:d2:ab:86:55:51:
+                    f0:f1:a9:25:f7:0b:7d:af:86:40:3e:2b:84:6a:32:
+                    4e:80:be:4f:d9:3c:8a:ab:65:46:3e:97:b3:f6:67:
+                    7e:a2:a6:ca:75:68:e7:d0:10:b9:cf:dc:ad:1d:da:
+                    e9:04:55:1a:38:bc:33:92:3f:0c:df:87:e5:d8:df:
+                    81:d7:17:32:8c:4a:e3:b3:b5
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         59:41:82:dd:2d:21:ee:21:2b:7f:30:d6:a0:8a:1f:a2:f6:ae:
+         c1:c4:94:b8:0e:fa:d9:5b:9f:a8:a1:09:89:e4:90:cb:fa:6e:
+         5e:e1:c4:fa:c8:a2:5d:b4:4f:20:97:8c:a4:48:15:c2:ab:36:
+         a0:d9:75:09:64:ba:58:48:f0:c4:20:64:1a:e8:b0:fb:b4:6e:
+         8d:bf:55:3d:fb:c8:19:68:eb:fa:eb:dc:8d:c2:23:43:3a:11:
+         e9:db:e7:9d:b6:e4:20:3f:a3:99:04:75:65:8d:96:10:d5:ae:
+         03:86:39:b0:24:13:ae:d3:f6:f4:54:4a:49:b9:7f:4f:2b:4a:
+         e8:a2:11:3b:2c:e7:50:3a:cf:f4:78:db:d9:79:ad:0a:75:95:
+         c8:57:72:29:3c:02:74:75:74:73:37:3f:0c:a3:e3:42:e1:1d:
+         3a:ef:ee:d3:e0:9e:ca:59:10:8a:b6:ac:a0:42:85:18:e9:b8:
+         4f:42:56:49:da:13:84:ab:7c:47:31:ca:2d:39:35:ed:fd:f9:
+         eb:cd:a2:3b:60:43:be:fd:46:e5:48:5b:02:85:37:00:b9:e2:
+         57:51:4b:f3:c8:79:6b:90:77:0f:98:fa:ea:83:39:fd:2f:6c:
+         09:c9:ed:74:b1:94:5c:b6:9a:94:da:f5:2c:42:a7:37:22:a7:
+         76:90:2d:88
+-----BEGIN CERTIFICATE-----
+MIICiTCCAXECAQIwDQYJKoZIhvcNAQEEBQAwYTEQMA4GA1UECgwHVGVzdE9yZzEX
+MBUGA1UECwwOVGVzdERlcGFydG1lbnQxDzANBgNVBAMMBlRlc3RDQTEjMCEGCSqG
+SIb3DQEJARYUY2FfYWRtaW5AdGVzdG9yZy5jb20wHhcNMjEwNjAzMDY1NDMxWhcN
+MjIwNjAzMDY1NDMxWjA4MRIwEAYDVQQKDAlTZXJ2ZXJDb20xETAPBgNVBAsMCFNl
+cnZlck9VMQ8wDQYDVQQDDAZzZXJ2ZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJ
+AoGBALnHsES0sKQdSvaaOYsES1Wh4cL4Mpj9CYKnFQAyd0VL+SmDMFh0Ef2kgFSk
+1hnykSES+ZniadKrhlVR8PGpJfcLfa+GQD4rhGoyToC+T9k8iqtlRj6Xs/ZnfqKm
+ynVo59AQuc/crR3a6QRVGji8M5I/DN+H5djfgdcXMoxK47O1AgMBAAEwDQYJKoZI
+hvcNAQEEBQADggEBAFlBgt0tIe4hK38w1qCKH6L2rsHElLgO+tlbn6ihCYnkkMv6
+bl7hxPrIol20TyCXjKRIFcKrNqDZdQlkulhI8MQgZBrosPu0bo2/VT37yBlo6/rr
+3I3CI0M6Eenb55225CA/o5kEdWWNlhDVrgOGObAkE67T9vRUSkm5f08rSuiiETss
+51A6z/R429l5rQp1lchXcik8AnR1dHM3Pwyj40LhHTrv7tPgnspZEIq2rKBChRjp
+uE9CVknaE4SrfEcxyi05Ne39+evNojtgQ779RuVIWwKFNwC54ldRS/PIeWuQdw+Y
++uqDOf0vbAnJ7XSxlFy2mpTa9SxCpzcip3aQLYg=
+-----END CERTIFICATE-----
